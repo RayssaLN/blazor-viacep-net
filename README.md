@@ -6,8 +6,8 @@ Aplicação Web desenvolvida em **Blazor InteractiveServer** para consulta de en
 
 ## 📌 Informações do Aluno
 
-- **Nome:** Vinícius Miranda
-- **RA:** 124114120
+- **Nome:** Rayssa Leal
+- **RA:** 12419301
 - **Curso:** Engenharia de Software (UniBH)
 - **Disciplina:** Usabilidade, Desenvolvimento Web, Mobile e Jogos (UDWMJ)
 - **Professor:** Daniel Henrique Matos de Paiva
