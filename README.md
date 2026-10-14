@@ -33,5 +33,3 @@ Aplicação Web desenvolvida em **Blazor InteractiveServer** para consulta de en
 ---
 
    ```bash
-   git clone [https://github.com/viniciusmsantoss/blazor-viacep-net.git](https://github.com/viniciusmsantoss/blazor-viacep-net.git)
-   cd blazor-viacep-net
