@@ -29,7 +29,3 @@ Aplicação Web desenvolvida em **Blazor InteractiveServer** para consulta de en
 - **Blazor InteractiveServer** (`@rendermode InteractiveServer`)
 - **HttpClient / System.Net.Http.Json**
 - **Bootstrap 5** (estilização e componentes de interface)
-
----
-
-   ```bash
