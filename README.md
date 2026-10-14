@@ -1,4 +1,4 @@
-# BlazorViaCep — Consulta de Endereço por CEP (.NET Blazor)
+# BlazorViaCep - Consulta de Endereço por CEP (.NET Blazor)
 
 Aplicação Web desenvolvida em **Blazor InteractiveServer** para consulta de endereços em tempo real através do consumo da API pública do **ViaCEP**.
 
